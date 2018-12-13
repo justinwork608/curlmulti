@@ -1,7 +1,7 @@
 <?php
 
 /**
- * multiple connection handler
+ * multiple connection handler (new featues)
  * @author	Justin Sundquist
  * @copyright 2018
  * @notes: minimum php requirement: 7.X
